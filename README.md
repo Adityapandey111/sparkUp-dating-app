@@ -1,6 +1,6 @@
 # SparkUp
 
-Production-ready full-stack starter for a Tinder-like social platform with richer interactive features.
+Production-ready full-stack starter for a social platform with richer interactive features.
 
 ## Tech Stack
 
